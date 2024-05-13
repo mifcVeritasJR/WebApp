@@ -1,0 +1,24 @@
+/* Estilos personalizados */
+
+/* Ajuste de margen inferior para evitar que el footer se superponga en dispositivos móviles */
+body {
+    margin-bottom: 70px;
+  }
+  
+  /* Ajuste de altura de las imágenes del carousel */
+  .carousel-item img {
+    height: 400px;
+  }
+  
+  /* Estilos para los cards */
+  .card {
+    margin-bottom: 20px;
+  }
+  
+  /* Estilos para el footer */
+  footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+  
